@@ -1,3 +1,0 @@
-#EXAMPLE.TXT
-
-this is a new simple file created.
